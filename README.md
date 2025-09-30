@@ -1,6 +1,7 @@
 # Kaggle-Regression---Tabular-California-Housing-Competition
 🏡 California Housing Price Prediction (Kaggle Competition)
 📌 Overview
+Link: https://www.kaggle.com/competitions/regression-tabular-california-housing/leaderboard
 
 This repository contains my solution for the Regression - Tabular California Housing Kaggle competition.
 The goal of the competition is to predict median house values using the classic California Housing dataset.
